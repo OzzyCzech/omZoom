@@ -1,3 +1,2 @@
-/.cache
-/dist/*.map
+/.parcel-cache
 /node_modules
