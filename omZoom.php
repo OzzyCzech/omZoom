@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: omZoom
- * Plugin URI: https://omdesign.cz
+ * Plugin URI: https://ozana.cz
  * Description: Medium like zoom image plugin
  * Version: 6.0
  * Author: Roman Ožana
- * Author URI: https://omdesign.cz/
+ * Author URI: https://ozana.cz/
  */
 
 add_action(
