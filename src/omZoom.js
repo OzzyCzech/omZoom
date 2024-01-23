@@ -9,7 +9,7 @@
 import mediumZoom from "medium-zoom";
 
 document.onreadystatechange = function () {
-	if (document.readyState == 'complete') {
+	if (document.readyState === 'complete') {
 
 		const images = [];
 		const imagesLinks = document.querySelectorAll('a[href*=".jpg" i], a[href*=".jpeg" i], a[href*=".png" i], a[href*=".gif" i]');
